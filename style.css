@@ -1,0 +1,41 @@
+* {
+ margin: 0px;
+padding: 0px;
+text-decoration: none;
+}
+h1 {
+
+padding-top: 59px;
+}
+
+h2 {
+padding-top: 40px;
+}
+a {
+   color: green;
+   border:3px solid green;
+   border-radius: 10px;
+   padding:5px 5px;
+
+
+}
+
+.link-box {
+          color: green;
+          margin-bottom: 40px;
+          margin-top:40px;
+          display: inline-block;
+
+}
+
+div {background-image: url("https://i.pinimg.com/originals/38/70/38/387038733314ba84496cdaaef085e614.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: right center;
+   height: 800px;
+
+}
+span {
+     color: red;
+
+}
